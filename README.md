@@ -9,6 +9,5 @@ matheus-de-sa/matheus-de-sa is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-de-sa&layout=compact)](https://github.com/matheus-de-sa/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-de-sa&exclude_repo=github-readme-stats,matheus-de-sa.github.io)](https://github.com/matheus-de-sa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-de-sa&langs_count=8)](https://github.com/matheus-de-sa/github-readme-stats)
 
