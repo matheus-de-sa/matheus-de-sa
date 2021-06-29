@@ -25,7 +25,7 @@
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/matheus-de-sa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-de-sa&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-de-sa&theme=dracula&hide_langs_below=0" />
 </a>
 
 <a href="https://github.com/matheus-de-sa">
