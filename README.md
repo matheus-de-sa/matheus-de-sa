@@ -36,7 +36,7 @@
 </a>
 
 [instagram]: https://www.instagram.com/matheus.de.sa/
-[linkedin]: https://www.linkedin.com/in/matheus-de-sá-28a4981a2/
+[linkedin]: https://www.linkedin.com/in/matheus-desa/
 <br>
 
 ## **Rede Sociais!**
