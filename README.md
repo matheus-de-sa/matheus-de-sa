@@ -19,16 +19,16 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img src="https://img.icons8.com/color/48/000000/sass-avatar.png"/></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/sass-avatar.png"/></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></code>
-<code><img src="https://icons8.com/icon/Ign0QG33bZzq/sql"/></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/mongodb.png"/></code>
+<code><img height="30" src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png"/></code>
 
 ## **Estudando...**
 
-<code><img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-java-computer-programming-flaticons-flat-flat-icons.png"/></code>
-<code><img src="https://img.icons8.com/fluency/48/000000/flutter.png"/></code>
+<code><img height="30" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-java-computer-programming-flaticons-flat-flat-icons.png"/></code>
+<code><img height="30" src="https://img.icons8.com/fluency/48/000000/flutter.png"/></code>
 
 ## **GitHub Estatísticas**
 
