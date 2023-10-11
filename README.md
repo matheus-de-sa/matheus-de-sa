@@ -9,21 +9,13 @@ I work as a Full Stack software developer with ReactJS, NextJS and Nest.js, but 
 #### **Stack**
 
 <div style="display: flex;"> 
-	<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/>
-    <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/>
-    <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"/>
-    <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
-    <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
-    <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-    <img height="30" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-    <img height="30" src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png"/>
+	<img height="60" src="https://skillicons.dev/icons?i=ts,js,vue,nuxt,react,next,nodejs,nestjs,python,mongo,mysql&perline=6"/>	
 </div>
 
 
 #### **Studying...**
 <div style="display: flex;"> 
-<img height="30" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-java-computer-programming-flaticons-flat-flat-icons.png"/>
-<img height="30" src="https://img.icons8.com/fluency/48/000000/flutter.png"/>
+<img height="30" src="https://skillicons.dev/icons?i=java,flutter&perline=6"/>	
 </div>
 
 #### **GitHub Statistics**
