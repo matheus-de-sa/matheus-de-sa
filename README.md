@@ -13,7 +13,7 @@ I work as a Full Stack software developer with ReactJS, NextJS and Nest.js, but 
 </div>
 
 
-#### **Studying...**
+#### **Studying**
 <div style="display: flex;"> 
 <img height="35" src="https://skillicons.dev/icons?i=java,flutter&perline=6"/>	
 </div>
