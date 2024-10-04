@@ -9,13 +9,13 @@ I work as a Full Stack software developer with ReactJS, NextJS and Nest.js, but 
 #### **Stack**
 
 <div style="display: flex;"> 
-	<img height="70" src="https://skillicons.dev/icons?i=ts,js,vue,nuxt,react,next,nodejs,nestjs,python,mongo,mysql&perline=6"/>	
+	<img height="70" src="https://skillicons.dev/icons?i=java,ts,js,vue,nuxt,react,next,nodejs,nestjs,python,mongo,mysql&perline=6"/>	
 </div>
 
 
 #### **Studying**
 <div style="display: flex;"> 
-<img height="35" src="https://skillicons.dev/icons?i=java,flutter&perline=6"/>	
+<img height="35" src="https://skillicons.dev/icons?i=flutter&perline=6"/>	
 </div>
 
 #### **GitHub Statistics**
