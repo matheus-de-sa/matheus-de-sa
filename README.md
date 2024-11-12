@@ -15,8 +15,8 @@ I work as a Full Stack software developer with ReactJS, NextJS and Nest.js, but 
 #### **GitHub Statistics**
 
 <a href="https://github.com/matheus-de-sa">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheus-de-sa&show_icons=true&theme=radical" alt="my github stats" height="180"/>&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-de-sa&hide=css,html,tsql,blade,%20jupyter+notebook&langs_count=10&theme=radical&layout=compact" alt="languages" height="180">
+  <img src="https://github-readme-stats-git-master-matheusdesas-projects.vercel.app/api?username=matheus-de-sa&show_icons=true&theme=radical" alt="my github stats" height="180"/>&nbsp;
+  <img src="https://github-readme-stats-git-master-matheusdesas-projects.vercel.app/api/top-langs/?username=matheus-de-sa&hide=css,html,tsql,blade,%20jupyter+notebook&langs_count=10&theme=radical&layout=compact" alt="languages" height="180">
 </a>
 
 
