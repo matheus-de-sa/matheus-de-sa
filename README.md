@@ -2,9 +2,9 @@
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-I have been passionate about technology since I was a child, I have always created things with microcontrollers and simple systems and from this passion I graduated as a computer engineer, I always seek to improve myself and seek new knowledge.
+I've been passionate about technology since I was a child, always experimenting with microcontrollers and building simple systems. This early curiosity led me to graduate as a Computer Engineer. I'm constantly striving to improve myself and expand my knowledge.
 
-I work as a Full Stack software developer with ReactJS, NextJS and Nest.js, but I am also proficient in VueJS, NuxtJS and Node.js.
+Currently, I work as a Full Stack Developer, specializing in ReactJS, NextJS, and NestJS. I’m also proficient in VueJS, NuxtJS, and Node.js, and I’m always eager to learn more and tackle new challenges.
 
 #### **Stack**
 
