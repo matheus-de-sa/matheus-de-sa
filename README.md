@@ -4,12 +4,10 @@
 
 I've been passionate about technology since I was a child, always experimenting with microcontrollers and building simple systems. This early curiosity led me to graduate as a Computer Engineer. I'm constantly striving to improve myself and expand my knowledge.
 
-Currently, I work as a Full Stack Developer, specializing in ReactJS, NextJS, and NestJS. I’m also proficient in VueJS, NuxtJS, and Node.js, and I’m always eager to learn more and tackle new challenges.
-
 #### **Stack**
 
 <div style="display: flex;"> 
-	<img height="70" src="https://skillicons.dev/icons?i=java,ts,js,vue,nuxt,react,next,nodejs,nestjs,mongo,mysql&perline=6"/>	
+	<img height="70" src="https://skillicons.dev/icons?i=java,gradle,ts,js,vue,nuxt,react,next,nodejs,nestjs,mongo,mysql&perline=6"/>	
 </div>
 
 #### **GitHub Statistics**
